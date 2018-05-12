@@ -1,0 +1,26 @@
+_repo: The-Story-of-Our-Hymns_33998
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ryden, Ernest Edwin
+    alias: Ryden, E. E. (Ernest Edwin)
+    gutenberg_agent_id: '36655'
+    url: http://www.gutenberg.org/2009/agents/36655
+description: ''
+gutenberg_issued: '2010-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33998'
+  lccn: '31001000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hymns -- History and criticism'
+- !lcc 'BV'
+title: The Story of Our Hymns
+url: http://www.gutenberg.org/ebooks/33998
